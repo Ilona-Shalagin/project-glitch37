@@ -19,7 +19,7 @@
   
   
   body {
-   background-image: url("https://cdn.glitch.com/d35599c5-e596-4297-9a93-b2b316610cbe%2F5.jpg?v=1629727073198");
+   background-image: url("background.jpg");
    background-size: cover;
    background-repeat: no-repeat
   }
@@ -57,7 +57,7 @@
   @media all and (max-width:800px) {
     body {
       height:100vh;
-      background-image: url ("https://cdn.glitch.com/d35599c5-e596-4297-9a93-b2b316610cbe%2F5.jpg?v=1629727073198");
+      background-image: url ("background.jpg");
     }
   
     .header, .links {
